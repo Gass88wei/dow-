@@ -6,6 +6,10 @@ Kokoro-TTS-Windows-Gradio-CPU-x64-v1.0下载地址：https://github.com/mirbehna
 感谢：米尔贝南
 Kokoro-TTS-窗户
 
+
+![屏幕截图 2025-03-08 171202](https://github.com/user-attachments/assets/f49e8f2d-90cf-45df-941e-8334956ec036)
+
+
 ## 环境要求
 - Python 3.12 或更高版本
 - Windows 操作系统
